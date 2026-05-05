@@ -61,18 +61,21 @@ C++ • JavaScript • SQL • HTML • CSS
 **Tech Stack:**  
 React.js • Node.js • Express.js • MongoDB • MySQL • Firebase (Auth, Firestore)
 
+**AI/LLMs:**  
+LLM Integration • Prompt Engineering • OpenAI API • Hugging Face  
+
 **Tools:**  
 Git • GitHub • VS Code  
 
 **Core CS:**  
 DSA • OOPS • DBMS • OS • Computer Networks  
-
 ---
 
 ## 📊 Competitive Programming
 
 - 🔵 Codeforces: https://codeforces.com/profile/josephbenhind 
 - 🟡 LeetCode: https://leetcode.com/u/joseph_benhin1507/
+- 🟢 CodeChef: https://www.codechef.com/users/josephbenhin15
 
 ---
 
