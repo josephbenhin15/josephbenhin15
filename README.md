@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Joseph Benhin
+# 👋 Hey, I'm Joseph Benhin Dontheboina
 
 🎓 B.Tech (ECE – VLSI) @ NIT Warangal(2023-2027) 
 
@@ -57,10 +57,10 @@
 ## 🧠 Skills
 
 **Languages:**  
-C++ • Python • JavaScript • SQL • HTML • CSS  
+C++ • JavaScript • SQL • HTML • CSS  
 
 **Tech Stack:**  
-Node.js • Express.js • MongoDB • MySQL  
+React.js • Node.js • Express.js • MongoDB • MySQL • Firebase (Auth, Firestore)
 
 **Tools:**  
 Git • GitHub • VS Code  
