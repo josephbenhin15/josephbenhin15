@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🎯 Target: SDE roles (Uber, Goldman Sachs, top tech firms)
+
 - 🧠 Strong in Data Structures & Algorithms
 - ⚡ Solved 800+ problems (LeetCode + Codeforces)
 - 🔥 Codeforces pupil (Max Rating: 1211)
