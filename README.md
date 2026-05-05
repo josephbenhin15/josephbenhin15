@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Joseph Benhin
 
-🎓 B.Tech (ECE – VLSI) @ NIT Warangal  
+🎓 B.Tech (ECE – VLSI) @ NIT Warangal(2023-2027)
 💻 Aspiring Software Developer | Competitive Programmer  
 
 ---
@@ -97,6 +97,6 @@ DSA • OOPS • DBMS • OS • Computer Networks
 ## ⚡ Fun
 
 - 🏏 Cricket | ♟ Chess | 🏸 Badminton  
-- 🌍 Learning Malayalam  
+- 🌍 Learning Languages(Currently learning Malayalam) 
 
 ---
