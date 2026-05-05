@@ -20,7 +20,6 @@
 ## 🏆 Achievements
 
 - 🥇 99.04 percentile in JEE Mains (Top 1%)
-- 🎯 Qualified JEE Advanced 2023
 - 💡 800+ DSA problems solved (LeetCode: 426+, Codeforces: 403+)
 - 🔥 LeetCode streak: 200+ days
 - 🧠 Codeforces streak: 190+ days
