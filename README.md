@@ -1,6 +1,7 @@
 # 👋 Hey, I'm Joseph Benhin
 
-🎓 B.Tech (ECE – VLSI) @ NIT Warangal(2023-2027)
+🎓 B.Tech (ECE – VLSI) @ NIT Warangal(2023-2027) 
+
 💻 Aspiring Software Developer | Competitive Programmer  
 
 ---
@@ -10,7 +11,7 @@
 - 🎯 Target: SDE roles (Uber, Goldman Sachs, top tech firms)
 - 🧠 Strong in Data Structures & Algorithms
 - ⚡ Solved 800+ problems (LeetCode + Codeforces)
-- 🔥 Codeforces Specialist (Max Rating: 1211)
+- 🔥 Codeforces pupil (Max Rating: 1211)
 - 📈 Consistent: 200+ day problem-solving streak
 - 🌱 Currently learning Full Stack Development
 
