@@ -34,7 +34,7 @@
 
 - Strong in Data Structures & Algorithms  
 - Solved 800+ problems across LeetCode & Codeforces  
-- Codeforces Pupil (Max Rating: 1211)  
+- Codeforces specialist (Max Rating: 1442)  
 - Consistent 200+ day problem-solving streak  
 - Currently learning Full Stack Development  
 
