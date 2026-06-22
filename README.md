@@ -52,9 +52,24 @@
 
 ## 💻 Projects
 
+### 🔹 Product Browser API | Node.js, Express.js, Prisma, PostgreSQL, Render
+
+- Designed and deployed a scalable RESTful Product Browser API serving 200,000+ product records using Node.js, Express.js, Prisma ORM, and PostgreSQL.
+
+- Implemented cursor based pagination with snapshot consistency, ensuring duplicate free and consistent product browsing during concurrent product insertions and updates.
+
+- Optimized query performance through PostgreSQL indexing and efficient database access patterns, enabling fast retrieval across large datasets.
+
+- Developed REST APIs for product retrieval, filtering, creation, and updates, supporting category based search and dynamic data management.
+
+-  Engineered backend data models and pagination workflows capable of handling continuously changing datasets while maintaining data consistency.
+
+- Deployed the production-ready backend on Render and integrated it with a cloud hosted PostgreSQL database for reliable access and scalability.
+
+
 ### 🔹 Smart Campus Management System
 - Built using React.js and Firebase  
-- Implemented authentication and real-time data sync  
+- Implemented authentication and real time data sync  
 - Features:
   - Mess opt-out system to reduce food waste  
   - Campus navigation system  
